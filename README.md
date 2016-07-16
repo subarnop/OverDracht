@@ -17,7 +17,6 @@ Easy Compilation and Run:arrow_forward:
 ---------------------------------------
 Once you have setup the dependencies, download the source and compile:
 ```
-$ cd ~/Downloads
 $ git clone https://github.com/Subarno/OverDracht.git
 $ cd OverDracht
 ```
@@ -26,7 +25,7 @@ Setup and Run the Server
 $ cd Server
 $./setserver.sh
 ```
-After the Server is set up multplie clients can be connected from different ends for different requests.
+After the Server is set multplie clients can be connected from different ends for different requests.
 
 Setup and Run the client 
 ```
