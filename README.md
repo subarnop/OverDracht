@@ -1,5 +1,4 @@
 # OverDracht
-What is OverDratch?
 
   OverDratch is a server-client program with a server that serves request of text files to its multiple connected clients. Basically this project follows the single server multiple client model for transferring text files from server to other cleints, where multiple clients can be connected one after another as well as all at a time.
   
