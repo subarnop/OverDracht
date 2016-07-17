@@ -1,12 +1,10 @@
 #OverDracht
-
 =====================================================================================
 ![alt text](https://github.com/Subarno/OverDracht/blob/master/img/Screenshot.png "OverDracht")
 -----------------------------------------------------------------------------------------------
-
-OverDratch is a server-client model using TCP/IP protocol with a server that serves request of text files to its multiple connected clients. Basically this project follows the single server multiple client model for transferring text files from server to other cleints, where multiple clients can be connected one after another as well as all at a time.
+  OverDratch is a server-client model using TCP/IP protocol with a server that serves request of text files to its multiple connected clients. Basically this project follows the single server multiple client model for transferring text files from server to other cleints, where multiple clients can be connected one after another as well as all at a time.
   
-The key feature of OverDratch is the single server multiple client model where once the server is set on any node of the network other nodes can access files located in the server directory by joining as a client. Multiple client all at a time and also one after another is feasible in this model.
+  The key feature of OverDratch is the single server multiple client model where once the server is set on any node of the network other nodes can access files located in the server directory by joining as a client. Multiple client all at a time and also one after another is feasible in this model.
   
 Requirements :white_check_mark:
 -------------------------------
