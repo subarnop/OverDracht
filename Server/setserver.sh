@@ -1,10 +1,10 @@
-make>/dev/null
-touch /dev/null
+gcc -o serv sender.c
 
 echo -n "Connecting IP:"
 read ip
 echo -n "Port number:"
 read port
 echo "Server Running"
-./send $ip $port
+
+./serv $ip $port
 
