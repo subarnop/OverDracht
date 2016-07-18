@@ -12,7 +12,6 @@ Requirements :white_check_mark:
 
 :pushpin: Any GNU/Linux operating system
 
-:pushpin: CMake
 
 Easy Compilation and Run:arrow_forward:
 ---------------------------------------
